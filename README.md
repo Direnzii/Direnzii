@@ -4,7 +4,6 @@
     <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Direnzii&layout=compact&theme=highcontrast" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Direnzii&layout=compact&theme=highcontrast" />
   </picture>
-  <img src="https://thumbs.gfycat.com/BarrenAnchoredHyrax.webp">
   <div>
     <a href="https://www.instagram.com/direnzii_" target="_blank">
       <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
