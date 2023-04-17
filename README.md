@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Information+Security%2C+Bug+Hunter;Dev.Python%2C+JS%2C+HTML%2C+CSS%2C+C+e+PHP;DevOps+%2F+DevSecOps+%2F+AWS+%2F+Cisco;Em+constante+evolu%C3%A7%C3%A3o)](https://git.io/typing-svg)
 
 - Sou estudante de Redes de Computadores e um amante de tecnologia
-- Atualmente estou estudando Python, CSS, HTML e PHP
+- Atualmente estou estudando PHP e JS
 - Sou vidrado em segurança da informação
 
 ## 
