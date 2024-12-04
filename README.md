@@ -1,6 +1,6 @@
 ## Eu sou o Direnzi, bem vindo ao meu Git !!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Information+Security%2C+Bug+Hunter;Dev.Python%2C+JS%2C+HTML%2C+CSS%2C+C+e+PHP;DevOps+%2F+DevSecOps+%2F+AWS+%2F+Cisco;Em+constante+evolu%C3%A7%C3%A3o)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Information+Security%2C+Bug+Hunter;Dev.+Python%2C+JS%2C+Cypress%2C+C+e+PHP;DevOps+%2F+DevSecOps+%2F+AWS+%2F+Cisco;Em+constante+evolu%C3%A7%C3%A3o)](https://git.io/typing-svg)
 
 - Graduado em Redes de Computadores pela Faculdade de Tecnologia de São Paulo e pós-graduando em Segurança da Informação pelo Senac-SP
 - Atualmente estou estudando JS, Cypress, CI/CD e FinOps
